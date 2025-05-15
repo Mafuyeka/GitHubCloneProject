@@ -1,3 +1,1 @@
-Objective: Practice branching and merging.
-Modification in main branch.
-Modification in master branch.
+This is the description of my repo
